@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Zhou ZiRui 👋
 
-<!--
-**Random30000/Random30000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **About Me:**  
+- 🎓 Computer Science & Technology Undergraduate  
+- 🏆 Algorithm Enthusiast | Competitive Programmer (C++)  
+- 🔐 Cybersecurity Learner | Aspiring Ethical Hacker  
+- 🤖 AI & Automation Enthusiast  
+- 🔬 Researching Metal Electron Work Function  
 
-Here are some ideas to get you started:
+🔨 **What I'm Working On:**  
+- 🚀 **Smart Campus Management System** | "Internet+" Competition  
+- 📚 **Reader Application** | Personalized Digital Reading Experience  
+- 🌍 **Navigation Hub** | Bridging Information Gaps with AI Tools  
+- 🖥 **One Student, One Chip Project (一生一芯)** | Hardware Design Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Skills & Interests:**  
+- **Programming:** C++, Python, Bash  
+- **Algorithms & Data Structures:** Dynamic Programming, Graph Theory, etc.  
+- **Cybersecurity:** Network Security, Ethical Hacking  
+- **AI & System Development:** GPT-based Automation  
+
+📫 **How to Reach Me:**  
+- 📩 Email: 2490136803@qq.com 
+- 🏆 Codeforces: carl*
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
